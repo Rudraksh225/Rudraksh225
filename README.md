@@ -19,8 +19,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" />
-    <img src="https://skillicons.dev/icons?i=pytorch" />
-    <img src="https://skillicons.dev/icons?i=sklearn" />
+    <img src="https://skillicons.dev/icons?i=pytorch" /></a>
+    <a><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+    <a>
     <img src="https://skillicons.dev/icons?i=py" />
     <img src="https://skillicons.dev/icons?i=opencv" />
     <img src="https://skillicons.dev/icons?i=flask" />
