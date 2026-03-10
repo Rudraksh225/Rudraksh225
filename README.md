@@ -75,7 +75,7 @@ class RudrakshJani:
 <td width="50%">
 
 **⚡ Independent AI/ML Contributor**  
-`Self-Directed` · Jun 2024 – Aug 2025  
+`Self-Directed` · Jun 2024 – Dec 2025  
 > Built end-to-end projects across computer vision and predictive modeling — handling data preprocessing, feature engineering, and performance tuning independently.
 
 </td>
